@@ -14,7 +14,4 @@ if ($acc!=$default_acc || $pw!=$default_pw) {
 }else{
     header("location:member.php?acc=$acc");    
 }
-
-
-
 ?>
